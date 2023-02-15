@@ -38,7 +38,7 @@ Per default:
     *   Default bucket: the value of DOCKER_INFLUXDB_INIT_BUCKET in .env
     *   Save & test: You should see a message "datasource is working."
 
-## Test our TIG stack by performing a flux query
+## Test your TIG stack by performing a flux query
 *   Click compass icon -> Explore
 *   Make sure the influxdb database is selected in the dropdown.
 *   Paste the query below where "tutorial" represents your value of DOCKER_INFLUXDB_INIT_BUCKET in .env
