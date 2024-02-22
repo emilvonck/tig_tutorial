@@ -33,7 +33,7 @@ Per default:
     *   Query Language: Flux
     *   URL: http://influxdb-v2:8086
     *   Turn off Basic auth
-    *   Turn onSkip TLS Verify
+    *   Turn on Skip TLS Verify
     *   Organization: the value of DOCKER_INFLUXDB_INIT_ORG in .env
     *   Token: the value of DOCKER_INFLUXDB_INIT_ADMIN_TOKEN in .env
     *   Default bucket: the value of DOCKER_INFLUXDB_INIT_BUCKET in .env
